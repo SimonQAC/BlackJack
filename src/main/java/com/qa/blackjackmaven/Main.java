@@ -1,4 +1,4 @@
-
+package com.qa.blackjackmaven;
 public class Main {
 
 	public static void main(String[] args) {
